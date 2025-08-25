@@ -1,7 +1,7 @@
 import {Routes, Route, NavLink} from 'react-router-dom';
 import { useState } from "react";
 
-import Settings from './pages/Settings';
+import Settings from './pages/Settings.tsx';
 import Home from "./pages/Home.tsx";
 
 
